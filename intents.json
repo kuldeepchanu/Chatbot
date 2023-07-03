@@ -1,0 +1,102 @@
+{
+    "specific_responses": [
+      "I'm sorry, I'm having trouble understanding. Could you please rephrase your question?",
+      "I'm afraid I don't have the information you're looking for. Can you provide more details?",
+      "I specialize in answering questions related to AI HAWKS. How can I assist you with that?",
+      "I'm not sure I understand. Can you please rephrase your question?",
+      "I'm sorry, I don't have the information you're looking for. Can you provide more details?",
+      "I'm sorry , I couldn't understand your inquiry. Can you please provide more details?"
+    ],
+
+    "greet_inputs": ["hi", "hello", "wassup", "hey", "howdy"],
+    "greet_responses": ["Hi!", "Hey!", "Hey there!", "Hi there, what can I do for you?",
+      "Hi there, how can I help?", "Hello, how can I help you?", 
+      "Hello, what can I do for you?", "Hello, how can I help you today?",
+      "Hey, how can I be of assistance?", "Hey there, how may I assist you today?",
+      "Hi there! How can I be of assistance?", "Hello! How may I support you today?",
+      "Hey! What can I do to help you?", "Greetings!How canI assist you with your needs?",
+      "Hey there! What can i do to lend a helping hand?", "Good day! How may I be service to you?",
+      "Greetings! How can I provide the support you're seeking?",
+      "Hello! How can I make your experience better?"
+    ],
+
+    "thanks_inputs": ["ty", "thanks", "thanx", "thank", " thx", "tysm", "appreciated" , "appreciate"
+    ],
+    "thanks_responses": ["You're welcome!", "Glad I could assist!" , "You're most welcome!" ,
+    "I'm glad I could be of service" , "I'm happy to lend a hand", "I'm here to help you",
+    "Happy to assist you!", "Anytime", "No worries", "You're gracious", "Always here to help you" ,
+    "It's all good", "I'm delighted to help!"
+    ],
+
+    "help_inputs": ["help", "assist", "need","assistance", "info", "information"
+    ],
+    "help_responses": [
+      "How can I assist you?",
+      "what do you need help with?",
+      " What information do you require?",
+      "How can I be of service?",
+      "How can I support you?",
+      "What do you need?",
+      "How can I assist?",
+      " What can I help you with?",
+      "Let me know how I can assist you.",
+      "What specific information are you looking for?",
+      "I specialize in answering questions. How can I assist you today?",
+      "I'm ready to help. Please let me know what you need.",
+      "Absolutely! I'm here to offer my assistance. What do you need help with?",
+      "I'm at your service! How may I assist you?",
+      "I'm here to support you. What can I do for you?",
+      "Certainly. How can I be of help to you?",
+      "Sure, I'd be happy to help. What do you need assistance with?",
+      "No problem! Let me know what you need help with.",
+      "I'm here to provide the information you need. How can I assist you?",
+      "Certainly, I'm here to assist you.How can I help you? ",
+      "I'm here to support you. How can I be of assistance?",
+      "I'm here to support you. How can I be of service to you?"
+    ],
+    "help_list": ["Sure.","Certainly!", "Of course.", "Sure thing."
+    ],
+
+    "exit_inputs": ["bye", "later", "goodbye", "quit", "exit", "end"
+    ],
+    "exit_responses": ["See you soon!", "Feel free to ask if you have any more questions!",
+    "Have a nice day","Take care!" , "Until next time!", "Bye!", "Bye-bye! Remember , I'm here if you need any help." ,
+    "Wishing you all the best. Goodbye!", "Thank you for chatting. Goodbye!"
+    ],
+
+    "joke_inputs": ["joke", "laugh"],
+    "jokes_list": [
+      "What's the best time to go to the dentist? Tooth-hurty!",
+      "Why don't skeletons fight each other? They don't have the guts!",
+      "How do you catch a squirrel? Climb a tree and act like a nut!",
+      "Why don't some couples go to the gym? Because some relationships don't work out!",
+      "Why did the math book look sad? Because it had too many problems!",
+      "What did the traffic light say to the car? Don't look! I'm about to change!",
+      "What did the janitor say when he jumped out of the closet? Supplies!",
+      "What did the left eye say to the right eye? Between us, something smells!",
+      "What do you call a fake noodle? An impasta!",
+      "What do you call a sleeping bull? A bull-dozer!",
+      "What do you call a pig that does karate? A pork chop!",
+      "Why don't eggs tell jokes? They'd crack each other up!",
+      "What do you call a bear with no teeth? A gummy bear!",
+      "What do you call a cow with two legs? Lean beef!",
+      "What do call a fly without wings? A walk!",
+      "What do you call a fish with no eyes? A fsh!",
+      "Why did the kid cross the playground? To get to the other slide!",
+      "What did the duck say when he bought lipstick? Put it on my bill!",
+      "Why don't ants get sick? Because they have little anty-bodies!",
+      "What do you call a funny mountain? Hill-arious!",
+      "What do you call a sleeping dinosaur? A dino-snore!",
+      "How do you make a tissue dance? Put a little boogie in it!",
+      "How does penguin build its house? Igloos it together!",
+      "What do you call a pig that does karate? A pork chop!",
+      "Why did the tomato blush? Because it saw the salad dressing!",
+      "What did one wall say to the other? I'll meet you at the corner!"
+    ],
+
+    "day_inputs": ["morning", "afternoon", "after noon", "evening", "night"],
+    "no_inputs":["no","nope","not really","nah","not interested","negative","don't","don't want",
+    "don't need","no thank you","not now","not at the moment","never","not at all","forget it",
+    "I'm good","I'm okay","I'm fine","I'm not sure","I don't think so"
+    ]
+  }
