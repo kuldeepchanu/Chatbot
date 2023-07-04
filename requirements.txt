@@ -1,0 +1,59 @@
+First to install the libraries we have to create a new environment for the whole process of chat bot to create a virtual environment:
+
+---> python3 -m venv myenv
+
+Activate the virtual environment:
+
+---> myenv\Scripts\activate
+
+The files required in the whole process of the development of chat bot 6 files are reuired:
+	1. CSV file - For trained data sets
+	2. intents.JSON file - Which contains specific responses such as greetings
+	3. Model(Code) in engine.py file - It contains python code for NLP engine
+	4. Pickle file - converting the engine.py file into pkl
+	5. Responses - Contains functions for the predictions.
+	6. API (without JWT) - This API doesn't contain any Authentication
+
+Installation Process:
+
+The necessary libraries from the model.py file:
+	1. spacy
+ 	2. random
+ 	3. Pandas
+ 	4. Sklearn
+ 	5. Pickle
+
+The necessary libraries from the Responses file:
+	1. Pickle
+	2. random
+	3. Pandas
+	4. Spacy
+	5. Sklearn
+	6. Date time
+	7. JSON
+
+The necessary libraries from the API (without JWT) file:
+  	1. Flask
+  	2. Flask_CORS
+
+To install the libraries from model.py file:
+ 	 --> pip install spacy
+ 	 --> python -m spacy download "en_core_web_sm"
+ 	 --> pip install scikit-learn
+ 	 --> pip install pandas
+
+To install the libraries from Responses file:
+  	 --> pip install pickle
+  	 --> pip install date time
+  	 --> pip install json
+
+To install the libraries from API ( without JWT ) 
+  	 --> pip install flask
+  	 --> pip install flask_core
+
+
+
+
+
+
+
