@@ -34,7 +34,7 @@ def gen_but(received_message):
     elif "/staffing" in message_lower or "staffing" in message_lower or "staff" in message_lower:
         buttons = [
             {"title": "AI Products", "payload": "/products"},
-            {"title": "Cosulting", "payload": "/consult"}
+            {"title": "Consulting", "payload": "/consult"}
         ]
 
     elif "/consult" in message_lower or "consultancy" in message_lower or "consulting" in message_lower:
